@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zenidog's Code Lab
-email: rodolfojose1996@gmail.com
-description: A coding blog of a passionate software development engineer trying to learn something new.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zenidog8.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zenidog96
+description: A coding blog of a passionate software development engineer trying to learn something new.
+domain: zenidog8.github.io 
+email: rodolfojose1996@gmail.com
 github_username:  zenidog8
+title: Zenidog's Code Lab
+twitter_username: zenidog96
+url: https://zenidog8.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
