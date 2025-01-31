@@ -64,7 +64,7 @@ Soy un desarrollador de software con un gran entusiasmo por la tecnología y un 
 </a>
 
 <a href="https://www.github.com/Zenidog8">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenidog8&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenidog8&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" alt="Contribuciones de Zenidog8"/>
 </a>
 
 <a href="https://github.com/Zenidog8" align="left">
