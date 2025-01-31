@@ -41,7 +41,7 @@ Soy un desarrollador de software con un gran entusiasmo por la tecnología y un 
 <a href="https://www.github.com/Zenidog8" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="github"/>
 </a> 
-<a href="http://www.instagram.com/zenidog8" target="_blank" rel="noreferrer"> 
+<a href="https://www.instagram.com/zenidog8" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" />
 </a> 
 <a href="https://www.linkedin.com/in/zenidog8" target="_blank" rel="noreferrer"> 
@@ -59,11 +59,11 @@ Soy un desarrollador de software con un gran entusiasmo por la tecnología y un 
 
 **Mis estadísticas en GitHub**
 
-<a href="http://www.github.com/Zenidog8">
+<a href="https://www.github.com/Zenidog8">
 <img src="https://github-readme-stats.vercel.app/api?username=Zenidog8&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Estadísticas de GitHub de Zenidog8" />
 </a>
 
-<a href="http://www.github.com/Zenidog8">
+<a href="https://www.github.com/Zenidog8">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenidog8&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
 </a>
 
