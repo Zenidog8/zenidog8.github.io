@@ -39,19 +39,19 @@ Soy un desarrollador de software con un gran entusiasmo por la tecnología y un 
 
 <p align="left"> 
 <a href="https://www.github.com/Zenidog8" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="github"/>
 </a> 
 <a href="http://www.instagram.com/zenidog8" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" />
 </a> 
 <a href="https://www.linkedin.com/in/zenidog8" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin" />
 </a> 
 <a href="https://www.youtube.com/@zenidog8" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="youtube" />
 </a> 
 <a href="https://www.x.com/theZenidog" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="twitter" />
 </a>
 </p>
 
