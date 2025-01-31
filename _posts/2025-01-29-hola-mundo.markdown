@@ -2,7 +2,8 @@
 layout: post
 title:  "Bienvenida"
 date:   2025-01-29 23:49:34 -0600
-categories: Personal
+categories: [Personal]
+tags: [Noticia]
 ---
 
 ## ¡Hola a todos!
